@@ -1,0 +1,9 @@
+{
+	"name": "datafactorybyazure",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a220105a-32aa-4006-ba33-f01e89383be2",
+		"tenantId": "1bf027b5-b1ef-460f-9f03-27fed8564b63"
+	}
+}
