@@ -97,7 +97,6 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "Resume - Gagan Verma 1Page.pdf",
 						"container": "input"
 					}
 				}
